@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Author Updates</title>
+    <description>Most recent updates for Author</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.0.1</title>
+      <pubDate>Wed, 01 Oct 2025 20:06:51 +0200</pubDate>
+      <description><![CDATA[
+        <h2>What's New in Version 0.0.1</h2>
+        <ul>
+          <li>Latest updates and improvements</li>
+          <li>Bug fixes and performance enhancements</li>
+        </ul>
+        <p>For full release notes, visit the GitHub releases page.</p>
+      ]]></description>
+      <sparkle:version>0.0.1</sparkle:version>
+      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/BaseTales/author/releases/download/v0.0.1/Author-0.0.1.dmg"
+        length="19444666"
+        type="application/octet-stream"
+        sparkle:edSignature="sparkle:edSignature="j7bVT63nyFWgGVG8NXvqnIcUPY4U7PBKf4DP7CEddZmXVtQto6hZBjw2utYp5adSRGrHogRRgFEQGRKh5HAbAg==" length="19444666""
+      />
+    </item>
+  </channel>
+</rss>
