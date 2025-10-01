@@ -7,7 +7,7 @@
 
     <item>
       <title>Version 0.0.1</title>
-      <pubDate>Wed, 01 Oct 2025 20:06:51 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2025 20:14:27 +0200</pubDate>
       <description><![CDATA[
         <h2>What's New in Version 0.0.1</h2>
         <ul>
@@ -21,9 +21,9 @@
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/BaseTales/author/releases/download/v0.0.1/Author-0.0.1.dmg"
-        length="19444666"
+        length="19444664"
         type="application/octet-stream"
-        sparkle:edSignature="sparkle:edSignature="j7bVT63nyFWgGVG8NXvqnIcUPY4U7PBKf4DP7CEddZmXVtQto6hZBjw2utYp5adSRGrHogRRgFEQGRKh5HAbAg==" length="19444666""
+        sparkle:edSignature="sparkle:edSignature="hiQ+jIFGkylYoaM4Th9SdFGiKX7aHPrMMktYLxnz6cKfRYGWxH8gUF51IiD4/mv/iD6lrG2VI2C31nNQP8sPCw==" length="19444664""
       />
     </item>
   </channel>
