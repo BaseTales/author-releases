@@ -6,24 +6,24 @@
     <language>en</language>
 
     <item>
-      <title>Version 0.0.2</title>
-      <pubDate>Wed, 01 Oct 2025 20:16:33 +0200</pubDate>
+      <title>Version 0.0.3</title>
+      <pubDate>Wed, 01 Oct 2025 20:31:05 +0200</pubDate>
       <description><![CDATA[
-        <h2>What's New in Version 0.0.2</h2>
+        <h2>What's New in Version 0.0.3</h2>
         <ul>
           <li>Latest updates and improvements</li>
           <li>Bug fixes and performance enhancements</li>
         </ul>
         <p>For full release notes, visit the GitHub releases page.</p>
       ]]></description>
-      <sparkle:version>0.0.2</sparkle:version>
-      <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+      <sparkle:version>0.0.3</sparkle:version>
+      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/BaseTales/author/releases/download/v0.0.2/Author-0.0.2.dmg"
-        length="19444708"
+        url="https://github.com/BaseTales/author/releases/download/v0.0.3/Author-0.0.3.dmg"
+        length="19842576"
         type="application/octet-stream"
-        sparkle:edSignature="sparkle:edSignature="9mKqO1ImpTiH9sgxuO60KK9DQRqsbqXESdpTm/02JXGJFRBK0ijNGKJlTejCIIN2rmm+S4PDIupGosJ+K2H2DA==" length="19444708""
+        sparkle:edSignature="sparkle:edSignature="c0w/nPXUBdea5kIFkUVENsCK37Be2SiqWtpqpW93qdRC59rMxhvNHo/xUOEOc164ubn3LtFAwyrQ0JxDnwXKBg==" length="19842576""
       />
     </item>
   </channel>
