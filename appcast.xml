@@ -5,22 +5,22 @@
     <description>Most recent updates for Author</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.0</title>
-      <pubDate>Tue, 20 Jan 2026 00:38:04 +0100</pubDate>
+      <title>Version 0.4.1</title>
+      <pubDate>Tue, 20 Jan 2026 00:48:39 +0100</pubDate>
       <description><![CDATA[
-        <h2>What's New in Version 0.4.0</h2>
+        <h2>What's New in Version 0.4.1</h2>
         <ul>
           <li>Latest updates and improvements</li>
           <li>Bug fixes and performance enhancements</li>
         </ul>
       ]]></description>
-      <sparkle:version>1768865778</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:version>1768866292</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/BaseTales/author-releases/releases/download/v0.4.0/Author-0.4.0.dmg"
+        url="https://github.com/BaseTales/author-releases/releases/download/v0.4.1/Author-0.4.1.dmg"
         type="application/octet-stream"
-        length="30084164"
+        length="30092473"
       />
     </item>
   </channel>
