@@ -6,22 +6,22 @@
     <language>en</language>
 
     <item>
-      <title>Version 0.4.6</title>
-      <pubDate>Wed, 28 Jan 2026 17:38:47 +0100</pubDate>
+      <title>Version 0.4.7</title>
+      <pubDate>Wed, 28 Jan 2026 17:49:06 +0100</pubDate>
       <description><![CDATA[
-        <h2>What's New in Version 0.4.6</h2>
+        <h2>What's New in Version 0.4.7</h2>
         <ul>
           <li>Latest updates and improvements</li>
           <li>Bug fixes and performance enhancements</li>
         </ul>
       ]]></description>
-      <sparkle:version>1769618191</sparkle:version>
-      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:version>1769618785</sparkle:version>
+      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/BaseTales/author-releases/releases/download/v0.4.6/Author-0.4.6.dmg"
+        url="https://github.com/BaseTales/author-releases/releases/download/v0.4.7/Author-0.4.7.dmg"
         type="application/octet-stream"
-        length="30092310"
+        sparkle:edSignature="ewYF/O9SBJKUwfP0c1SkaBhbhvR7EkariMhs8LYY/XyFj5RylJEDDkOeq3U7aOCzEXU/U9l7OCXsQHQBZLQTDQ==" length="30092051"
       />
     </item>
   </channel>
