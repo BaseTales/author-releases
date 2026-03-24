@@ -4,24 +4,23 @@
     <title>Author Updates</title>
     <description>Most recent updates for Author</description>
     <language>en</language>
-
     <item>
-      <title>Version 0.4.7</title>
-      <pubDate>Wed, 28 Jan 2026 17:49:06 +0100</pubDate>
+      <title>Version 0.4.8</title>
+      <pubDate>Tue, 24 Mar 2026 01:57:17 +0100</pubDate>
       <description><![CDATA[
-        <h2>What's New in Version 0.4.7</h2>
+        <h2>What's New in Version 0.4.8</h2>
         <ul>
           <li>Latest updates and improvements</li>
           <li>Bug fixes and performance enhancements</li>
         </ul>
       ]]></description>
-      <sparkle:version>1769618785</sparkle:version>
-      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <sparkle:version>1774313562</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/BaseTales/author-releases/releases/download/v0.4.7/Author-0.4.7.dmg"
+        url="https://github.com/BaseTales/author-releases/releases/download/v0.4.8/Author-0.4.8.dmg"
         type="application/octet-stream"
-        sparkle:edSignature="ewYF/O9SBJKUwfP0c1SkaBhbhvR7EkariMhs8LYY/XyFj5RylJEDDkOeq3U7aOCzEXU/U9l7OCXsQHQBZLQTDQ==" length="30092051"
+        sparkle:edSignature="D7E4xumkfdT0RHOaCPcfCpDRoePwGtjOHNT2FdtAgop+Ejog4hlntG4dYtYN5AS+0WGfENIzQxoll1e8kQDZCA==" length="30265870"
       />
     </item>
   </channel>
